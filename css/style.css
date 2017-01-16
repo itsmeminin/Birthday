@@ -1,0 +1,8 @@
+#bg1, #bg2, #bg3{padding: 3px;}
+audio{display: none;}
+body{font-family: 'Open Sans', sans-serif;}
+h1,h2,h3,h4{font-family: 'Montserrat', sans-serif;}
+#bg1 > p{color: #000;position: absolute;top:40vh;font-size: 19px;margin: 30px;text-align: center;font-weight: 500;transform:rotate(-31deg);}
+#bg1 > p span, #bg2 > p span,  #bg3 > p span{font-size:32px;}
+#bg2 > p{color: #000;position: absolute;top:50vh;font-size: 19px;margin: 30px;text-align: center;font-weight: 500;}
+#bg3 > p{color: #000;position: absolute;top:70vh;font-size: 19px;margin: 30px;text-align: center;font-weight: 500;transform:rotate(-31deg);}
